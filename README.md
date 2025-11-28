@@ -1,4 +1,4 @@
-# 🔐 Image Encryption Utility (Python)
+# 🔐 Image Encryption Tool (Python)
 This project offers a lightweight utility for securing image files through symmetric encryption using the cryptography package.
 
 ---
